@@ -1,5 +1,5 @@
 # SECL-AVECL-UMONS
-Datasets for audio (SCEL) and audio-visual (AVECL) event classification and localization in the context of office environments
+Datasets for audio (SECL) and audio-visual (AVECL) event classification and localization in the context of office environments
 
 # AVECL
 The AVECL dataset is composed of 11 event classes recorded at several realistic positions in two different rooms. The dataset comprises two types of sequences according to the number of events in the sequence. 2662 unilabel sequences and 2724 multilabel sequences are recorded corresponding to a total of 5.24 hours.
